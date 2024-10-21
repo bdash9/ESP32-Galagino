@@ -1,4 +1,8 @@
 This code was written by Gil Harbaum and is meant for arduinoIDE (see Hardware Requirements below).
+
+Go here for the info below with pictures:
+https://github.com/harbaum/galagino
+
 --------------------------------------------------------------------------------------------------
 
 Galagino - ESP32 Arcade Emulator
