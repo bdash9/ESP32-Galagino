@@ -1,5 +1,5 @@
-This code was written by Gil Harbaum and is meant for arduinoIDE.
-
+This code was written by Gil Harbaum and is meant for arduinoIDE (see Hardware Requirements below).
+--------------------------------------------------------------------------------------------------
 
 Galagino - ESP32 Arcade Emulator
 Play Galaga, Pac-Man, Donkey Kong, Frogger, Digdug and 1942 on the ESP32
